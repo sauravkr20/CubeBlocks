@@ -1,0 +1,309 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1650 Ti (ID=0x1f95)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   30.0.15.1278
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\saura\Documents\first project\GameCubes_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\saura\Documents\first project\GameCubes_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\saura\Documents\first project\GameCubes_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\saura\Documents\first project\GameCubes_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\saura\Documents\first project\GameCubes_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\saura\Documents\first project\GameCubes_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\saura\Documents\first project\GameCubes_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\saura\Documents\first project\GameCubes_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\saura\Documents\first project\GameCubes_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\saura\Documents\first project\GameCubes_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\saura\Documents\first project\GameCubes_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\saura\Documents\first project\GameCubes_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.239 seconds
+Platform assembly: C:\Users\saura\Documents\first project\GameCubes_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\saura\Documents\first project\GameCubes_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1131 at 0,-51
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.243500 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 37f8 -> priority: 1 
+  Thread -> id: 621c -> priority: 1 
+  Thread -> id: 399c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.050800 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 347.
+Total: 0.225000 ms (FindLiveObjects: 0.030600 ms CreateObjectMapping: 0.013600 ms MarkObjects: 0.170800 ms  DeleteObjects: 0.008900 ms)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+end of the game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.385600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 0.176800 ms (FindLiveObjects: 0.017400 ms CreateObjectMapping: 0.011500 ms MarkObjects: 0.144100 ms  DeleteObjects: 0.003200 ms)
+
+Level won!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+game won! in onTriggerEnter function
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level won!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+game won! in onTriggerEnter function
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+end of the game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.352000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 0.189200 ms (FindLiveObjects: 0.021300 ms CreateObjectMapping: 0.011200 ms MarkObjects: 0.152700 ms  DeleteObjects: 0.003400 ms)
+
+Level won!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+game won! in onTriggerEnter function
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level won!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+game won! in onTriggerEnter function
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+end of the game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.369300 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 0.240100 ms (FindLiveObjects: 0.056000 ms CreateObjectMapping: 0.035100 ms MarkObjects: 0.144100 ms  DeleteObjects: 0.003300 ms)
+
+Level won!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+game won! in onTriggerEnter function
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level won!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+game won! in onTriggerEnter function
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+end of the game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.353000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 0.203600 ms (FindLiveObjects: 0.018200 ms CreateObjectMapping: 0.011500 ms MarkObjects: 0.169400 ms  DeleteObjects: 0.003800 ms)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+end of the game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.329100 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 0.244000 ms (FindLiveObjects: 0.024400 ms CreateObjectMapping: 0.011900 ms MarkObjects: 0.202700 ms  DeleteObjects: 0.004200 ms)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+end of the game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.324000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 0.213600 ms (FindLiveObjects: 0.021800 ms CreateObjectMapping: 0.013400 ms MarkObjects: 0.174300 ms  DeleteObjects: 0.003500 ms)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+end of the game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.315600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 0.296900 ms (FindLiveObjects: 0.018600 ms CreateObjectMapping: 0.011200 ms MarkObjects: 0.263100 ms  DeleteObjects: 0.003400 ms)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+end of the game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.283400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 0.171400 ms (FindLiveObjects: 0.021300 ms CreateObjectMapping: 0.010000 ms MarkObjects: 0.135900 ms  DeleteObjects: 0.003500 ms)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+end of the game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+we hit an Obstacle!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.329300 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 0.309600 ms (FindLiveObjects: 0.031400 ms CreateObjectMapping: 0.015600 ms MarkObjects: 0.257500 ms  DeleteObjects: 0.004200 ms)
+
+Level won!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+game won! in onTriggerEnter function
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level won!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+game won! in onTriggerEnter function
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+end of the game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
